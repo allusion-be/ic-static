@@ -33,6 +33,7 @@ In `source` all the asset directories are specified which will get uploaded to t
 In the previous step we specified that the assets will be contained in `www` and `www/css`, which contain `index.html` and `style.css` respectively.
 
 ### Step 3: Deploy to IC
+If you need help deploying the project, then you can find more information [here](https://sdk.dfinity.org/docs/quickstart/network-quickstart).
 
 ```shell
 dfx start
